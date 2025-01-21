@@ -23,4 +23,8 @@
         <WarningLevel>0</WarningLevel>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Kudos.DataBasing\Kudos.DataBasing.csproj" />
+      <ProjectReference Include="..\Kudos.Dating\Kudos.Dating.csproj" />
+    </ItemGroup>
 </Project>
